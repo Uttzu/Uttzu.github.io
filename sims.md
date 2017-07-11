@@ -7,6 +7,8 @@ bigimg:
 subtitle: Ein knisterndes Kaminfeuer an kalten Winterabenden, 
 mit seiner angenehmen Wärme und dem Flackern der Flammen, was gibt es schöneres?
 ---
+
+
 Unser Kaminholz kommt ausschließlich aus den heimischen Wäldern hier in der Umgebung und wird 
 nachhaltig und umweltschonend, unter Beachtung aller gesetzlichen Bestimmungen, geerntet. 
 Das heißt also es muss niemand Angst haben durch seinen Kaminofen die heimischen 
