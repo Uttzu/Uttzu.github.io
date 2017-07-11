@@ -23,12 +23,12 @@ description: Herzlich willkommen bei Holzhandel Kürten in Windeck, Rhein-Sieg-K
 
 # List of links in the navigation bar
 navbar-links:
-  Über uns: "aboutme"
-  Schöne Bildchen:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Author's home: "www.holzhandel-kürten.de"
+#  Über uns: "aboutme"
+#  Schöne Bildchen:
+#    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+#    - Learn markdown: "http://www.markdowntutorial.com/"
+#    - GitHub Pages: "https://pages.github.com/"
+#  Author's home: "www.holzhandel-kürten.de"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
