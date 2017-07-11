@@ -4,7 +4,8 @@ title: Über uns
 bigimg:
   - /img/Holzfaeller.jpg
   - /img/Welle.jpg
-subtitle: Herzlich willkommen bei Holzhandel Kürten in Windeck, Rhein-Sieg-Kreis
+subtitle: Ein knisterndes Kaminfeuer an kalten Winterabenden, mit seiner angenehmen Wärme und dem Flackern der Flammen, 
+was gibt es schöneres?
 ---
 
 
