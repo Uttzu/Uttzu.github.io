@@ -23,7 +23,7 @@ description: Herzlich willkommen bei Holzhandel Kürten in Windeck, Rhein-Sieg-K
 
 # List of links in the navigation bar
 navbar-links:
-#  Über uns: "aboutme"
+  Über uns: "aboutme"
 #  Schöne Bildchen:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
