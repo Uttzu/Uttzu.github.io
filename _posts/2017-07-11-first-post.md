@@ -1,7 +1,7 @@
 ---
 layout: post
-title: First post!
+title: Ich und mein Holz!
 image: /img/Intimklotz.jpg
 ---
 
-Der unglaubliche Intimklotz ist da!
+Holz sieht sehr schön aus, Holz ist vielseitig. Der neue Intimklotz ist da!
