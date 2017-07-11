@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Der _unglaubliche_ **Intimklotz**!
+title: Der unglaubliche Intimklotz ist da!
 image: /img/Intimklotz.jpg
 ---
 
-Wir verkaufen Holz, das ist großartig _wirklich_!
+Wir verkaufen Holz, das ist großartig!
