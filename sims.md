@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Über uns
+title: Kaminholz
 bigimg:
   - /img/Holzfaeller.jpg
   - /img/Welle.jpg
