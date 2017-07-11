@@ -1,16 +1,13 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Über uns
+subtitle: Herzlich willkommen bei Holzhandel Kürten in Windeck, Rhein-Sieg-Kreis
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+* Betriebsgelände:
+  * Rudolf-Diesel-Straße 5
+  * 51570 Windeck
+* Kontaktdaten:
+  * Mobil: 0175/1518328
+  * Telefon: 02292/9580100
+  * E-Mail: info@holzhandel-kuerten.de
