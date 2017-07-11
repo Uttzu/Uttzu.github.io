@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Über uns
+bigimg:
+  - /img/Holzfaeller.jpg
+  - /img/Welle.jpg
 subtitle: Herzlich willkommen bei Holzhandel Kürten in Windeck, Rhein-Sieg-Kreis
 ---
 
